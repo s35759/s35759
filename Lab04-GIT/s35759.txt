@@ -1,2 +1,3 @@
-Name: {Patryk Załęcki}
+Name: Patryk Załęcki
 University: PJATK
+Student id: 35759
