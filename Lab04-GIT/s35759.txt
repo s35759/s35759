@@ -1,1 +1,2 @@
-"Name: {Patryk Załęcki}"
+Name: {Patryk Załęcki}
+University: PJATK
